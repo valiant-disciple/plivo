@@ -1,0 +1,6 @@
+torch
+transformers
+numpy
+tqdm
+seqeval
+optuna

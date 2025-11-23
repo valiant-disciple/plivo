@@ -1,6 +1,6 @@
 # PII NER for Noisy STT Transcripts
 
-**🎯 Trained Model Weights:** [Download from Google Drive](https://drive.google.com/drive/folders/1wd1ttWBLKTVvnPi84LJUqOF-IXlUaKXB?usp=sharing)
+**🎯 Trained Model Weights:** Find out/ directory.
 
 High-precision NER system for detecting PII in speech-to-text transcripts. Achieves **90.5% PII precision** with **10.3ms p95 latency** on CPU.
 

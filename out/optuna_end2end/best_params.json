@@ -1,0 +1,12 @@
+{
+  "best_value": 0.9887005649717514,
+  "best_params": {
+    "lr": 3.431218917561423e-05,
+    "batch_size": 8,
+    "epochs": 4,
+    "max_length": 192,
+    "weight_decay": 0.05370454860256685,
+    "warmup_ratio": 0.15988727837341363,
+    "dropout": 0.08270854056377115
+  }
+}

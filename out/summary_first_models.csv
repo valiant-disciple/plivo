@@ -1,0 +1,2 @@
+model,macro_f1,pii_P,pii_R,pii_F1,p50_ms,p95_ms,out_dir
+microsoft/MiniLM-L12-H384-uncased,0.877,0.905,0.856,0.88,9.38,10.3,/Users/kolosus/Downloads/pii_ner_assignment/out/minilm_l6h384
